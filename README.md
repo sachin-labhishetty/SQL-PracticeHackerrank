@@ -1,1 +1,1 @@
-# practice
+# SQL-MySQL Challenges in Hackerrank
